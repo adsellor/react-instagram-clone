@@ -1,0 +1,12 @@
+.header{
+  width: 20em;
+  height: 2em;
+  border: solid 2px black
+}
+
+.image {
+  width: 20em;
+  height: 30em;
+  border: solid 2px black;
+  border-top: none
+}
